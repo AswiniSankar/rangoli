@@ -1,1 +1,1 @@
-# rangoli
+# rangoli-pattern
